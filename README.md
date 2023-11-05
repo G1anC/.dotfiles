@@ -16,7 +16,7 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ### dashboard
 
-![image](app-manager.png)
+![image](app2.png)
 
 ### Configurations
 
