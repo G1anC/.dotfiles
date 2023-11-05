@@ -28,5 +28,6 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ```Thunar``` : file manager
 
-```VSCode``` : text editor
+```VSCode``` : text editor (i'm using 'Kanagawa' as theme)
+
 
