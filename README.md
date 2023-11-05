@@ -4,19 +4,19 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ### Home page
 
-![image](home.png)
+![image](README-images/home.png)
 
 ### Code editor opened
 
-![image](code.png)
+![image](README-images/code.png)
 
 ### Multiple pages opened
 
-![image](multiple.png)
+![image](README-images/multiple.png)
 
 ### dashboard
 
-![image](app2.png)
+![image](README-images/app2.png)
 
 ### Configurations
 
