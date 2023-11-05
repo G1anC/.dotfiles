@@ -10,6 +10,14 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ![image](code.png)
 
+### Multiple pages opened
+
+![image](multiple.png)
+
+### dashboard
+
+![image](app-manager.png)
+
 ### Configurations
 
 ```hyprland``` : wayland compositor
