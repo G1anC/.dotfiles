@@ -1,2 +1,3 @@
-# .dotfiles
-The Hyprland / ArchLinux setup i'm currently using
+# Hyprland .dotfiles
+
+> The Hyprland (ArchLinux) configuration i'm currently using.
