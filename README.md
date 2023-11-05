@@ -17,18 +17,18 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ### Home page
 
-![image](README-images/home.png)
+![image](pictures/home.png)
 
 ### Code editor opened
 
-![image](README-images/code.png)
+![image](pictures/code.png)
 
 ### Multiple pages opened
 
-![image](README-images/multiple.png)
+![image](pictures/multiple.png)
 
 ### dashboard
 
-![image](README-images/app2.png)
+![image](pictures/app2.png)
 
 
