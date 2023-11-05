@@ -2,7 +2,13 @@
 
 The Hyprland (ArchLinux) configuration i'm currently using.
 
+### Home page
+
 ![image](home.png)
+
+### Code editor opened
+
+![image](code.png)
 
 ### Configurations
 
