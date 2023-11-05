@@ -1,22 +1,7 @@
 # My .dotfiles
 
 The Hyprland (ArchLinux) configuration i'm currently using.
-
-### Home page
-
-![image](home.png)
-
-### Code editor opened
-
-![image](code.png)
-
-### Multiple pages opened
-
-![image](multiple.png)
-
-### dashboard
-
-![image](app2.png)
+<br>
 
 ### Configurations
 
@@ -28,5 +13,22 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ```Thunar``` : file manager
 
-```VSCode``` : text editor
+```VSCode``` : text editor (i'm using 'Kanagawa' as theme)
+
+### Home page
+
+![image](README-images/home.png)
+
+### Code editor opened
+
+![image](README-images/code.png)
+
+### Multiple pages opened
+
+![image](README-images/multiple.png)
+
+### dashboard
+
+![image](README-images/app2.png)
+
 
