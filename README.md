@@ -2,6 +2,18 @@
 
 The Hyprland (ArchLinux) configuration i'm currently using.
 
+### Configurations
+
+```hyprland``` : wayland compositor
+
+```hyprpaper``` : background 
+
+```swaylock``` : lock screen
+
+```Thunar``` : file manager
+
+```VSCode``` : text editor (i'm using 'Kanagawa' as theme)
+
 ### Home page
 
 ![image](README-images/home.png)
@@ -17,17 +29,5 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 ### dashboard
 
 ![image](README-images/app2.png)
-
-### Configurations
-
-```hyprland``` : wayland compositor
-
-```hyprpaper``` : background 
-
-```swaylock``` : lock screen
-
-```Thunar``` : file manager
-
-```VSCode``` : text editor (i'm using 'Kanagawa' as theme)
 
 
