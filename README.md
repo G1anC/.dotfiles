@@ -15,6 +15,8 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ```VSCode``` : text editor (i'm using 'Kanagawa' as theme)
 
+```wofi``` : applications manager
+
 ### Home page
 
 ![image](pictures/home.png)
