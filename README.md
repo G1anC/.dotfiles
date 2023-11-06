@@ -7,6 +7,8 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ```hyprland``` : wayland compositor
 
+```waybar``` : status bar 
+
 ```hyprpaper``` : background 
 
 ```swaylock``` : lock screen
