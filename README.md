@@ -15,17 +15,17 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ```VSCode``` : text editor (i'm using 'Kanagawa' as theme)
 
-```wofi``` : applications manager
+```wofi``` : dashboard
 
-### Home page
+### Home
 
 ![image](pictures/home.png)
 
-### Code editor opened
+### VSCode
 
 ![image](pictures/code.png)
 
-### Multiple pages opened
+### Multiple pages
 
 ![image](pictures/multiple.png)
 
