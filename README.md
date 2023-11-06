@@ -13,11 +13,11 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 ```Thunar``` : file manager
 
-```VSCode``` : text editor ('Kanagawa')
+```VSCode``` : text editor ('Kanagawa' theme)
 
 ```wofi``` : dashboard
 
-```firefox``` : web manager ('NordOrange' theme
+```firefox``` : web manager ('NordOrange' theme)
 
 ### Home
 
