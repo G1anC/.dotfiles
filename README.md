@@ -3,6 +3,10 @@
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 
+```bash
+coucou
+```
+
 ### Configurations
 
 ```hyprland``` : wayland compositor
