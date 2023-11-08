@@ -4,7 +4,7 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 <br>
 
-<div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br>
+<div align = center><br><br>
 
 &ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
 &ensp;[<kbd> <br> Themes <br> </kbd>](#Theming)&ensp;
