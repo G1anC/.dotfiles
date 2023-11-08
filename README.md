@@ -3,9 +3,22 @@
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 
+&ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Themes <br> </kbd>](#Configurations)&ensp;
+&ensp;[<kbd> <br> Styles <br> </kbd>](#Home)&ensp;
+&ensp;[<kbd> <br> Packages <br> </kbd>](#VSCode)&ensp;
+&ensp;[<kbd> <br> Keybindings <br> </kbd>](#Multiple)&ensp;
+&ensp;[<kbd> <br> Youtube <br> </kbd>](#Dashboard)&ensp;
+&ensp;[<kbd> <br> KnownIssues <br> </kbd>](#Known-Issues)&ensp;
+
+### Installation
+
 ```bash
-coucou
+sudo pacman -S hyprland 
+cd ~/.config/
+sudo 
 ```
+<br>
 
 ### Configurations
 
@@ -37,7 +50,7 @@ coucou
 
 ![image](pictures/multiple.png)
 
-### dashboard
+### Dashboard
 
 ![image](pictures/app2.png)
 
