@@ -2,6 +2,8 @@
 
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
+<br>
+
 &ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 &ensp;[<kbd> <br> Configurations <br> </kbd>](#Configurations)&ensp;
