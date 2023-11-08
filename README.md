@@ -3,7 +3,7 @@
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 <br>
-<div style="text-align: center;">
+
   &ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
   &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
   &ensp;[<kbd> <br> Configurations <br> </kbd>](#Configurations)&ensp;
@@ -11,7 +11,8 @@ The Hyprland (ArchLinux) configuration i'm currently using.
   &ensp;[<kbd> <br> VSCode <br> </kbd>](#VSCode)&ensp;
   &ensp;[<kbd> <br> Multiple <br> </kbd>](#Multiple)&ensp;
   &ensp;[<kbd> <br> DashBoard <br> </kbd>](#Dashboard)&ensp;
-</div>
+
+  
 ### Installation
 
 ```bash
