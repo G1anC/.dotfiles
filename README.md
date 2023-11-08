@@ -4,7 +4,7 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 <br>
 
-<div align = center><br><br>
+<div align = center><br>
 
 &ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
 &ensp;[<kbd> <br> Themes <br> </kbd>](#Theming)&ensp;
@@ -13,7 +13,7 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 &ensp;[<kbd> <br> Keybindings <br> </kbd>](#Keybindings)&ensp;
 &ensp;[<kbd> <br> Youtube <br> </kbd>](#Playlist)&ensp;
 &ensp;[<kbd> <br> KnownIssues <br> </kbd>](#Known-Issues)&ensp;
-<br><br><br><br></div>
+<br><br></div>
   
 ### Installation
 
