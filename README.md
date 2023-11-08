@@ -8,11 +8,8 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 &ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
-&ensp;[<kbd> <br> Styles <br> </kbd>](#Styles)&ensp;
-&ensp;[<kbd> <br> Packages <br> </kbd>](#Packages)&ensp;
-&ensp;[<kbd> <br> Keybindings <br> </kbd>](#Keybindings)&ensp;
-&ensp;[<kbd> <br> Youtube <br> </kbd>](#Playlist)&ensp;
-&ensp;[<kbd> <br> KnownIssues <br> </kbd>](#Known-Issues)&ensp;
+&ensp;[<kbd> <br> Configuration <br> </kbd>](#Configurations)&ensp;
+&ensp;[<kbd> <br> Theme <br> </kbd>](#Theme)&ensp;
 <br><br></div>
   
 ### Installation
@@ -42,19 +39,13 @@ sudo
 
 ```firefox``` : web manager ('NordOrange' theme)
 
-### Home
+### Theme
 
 ![image](pictures/home.png)
 
-### VSCode
-
 ![image](pictures/code.png)
 
-### Multiple pages
-
 ![image](pictures/multiple.png)
-
-### Dashboard
 
 ![image](pictures/app2.png)
 
