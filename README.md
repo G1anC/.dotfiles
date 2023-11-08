@@ -3,15 +3,17 @@
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 <br>
-<div align=center>
-  &ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
-  &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
-  &ensp;[<kbd> <br> Configurations <br> </kbd>](#Configurations)&ensp;
-  &ensp;[<kbd> <br> Home <br> </kbd>](#Home)&ensp;
-  &ensp;[<kbd> <br> VSCode <br> </kbd>](#VSCode)&ensp;
-  &ensp;[<kbd> <br> Multiple <br> </kbd>](#Multiple)&ensp;
-  &ensp;[<kbd> <br> DashBoard <br> </kbd>](#Dashboard)&ensp;
-</div>
+
+<div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br>
+
+&ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Themes <br> </kbd>](#Theming)&ensp;
+&ensp;[<kbd> <br> Styles <br> </kbd>](#Styles)&ensp;
+&ensp;[<kbd> <br> Packages <br> </kbd>](#Packages)&ensp;
+&ensp;[<kbd> <br> Keybindings <br> </kbd>](#Keybindings)&ensp;
+&ensp;[<kbd> <br> Youtube <br> </kbd>](#Playlist)&ensp;
+&ensp;[<kbd> <br> KnownIssues <br> </kbd>](#Known-Issues)&ensp;
+<br><br><br><br></div>
   
 ### Installation
 
