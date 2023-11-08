@@ -2,7 +2,7 @@
 
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
-
+<div style="text-align: center; display: flex; justify-items: space-between;"></div>
 &ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
 &ensp;[<kbd> <br> Themes <br> </kbd>](#Configurations)&ensp;
 &ensp;[<kbd> <br> Styles <br> </kbd>](#Home)&ensp;
