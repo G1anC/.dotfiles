@@ -2,14 +2,13 @@
 
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
-<div style="text-align: center; display: flex; justify-items: space-between;"></div>
-&ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
-&ensp;[<kbd> <br> Themes <br> </kbd>](#Configurations)&ensp;
-&ensp;[<kbd> <br> Styles <br> </kbd>](#Home)&ensp;
-&ensp;[<kbd> <br> Packages <br> </kbd>](#VSCode)&ensp;
-&ensp;[<kbd> <br> Keybindings <br> </kbd>](#Multiple)&ensp;
-&ensp;[<kbd> <br> Youtube <br> </kbd>](#Dashboard)&ensp;
-&ensp;[<kbd> <br> KnownIssues <br> </kbd>](#Known-Issues)&ensp;
+&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Configurations <br> </kbd>](#Configurations)&ensp;
+&ensp;[<kbd> <br> Home <br> </kbd>](#Home)&ensp;
+&ensp;[<kbd> <br> VSCode <br> </kbd>](#VSCode)&ensp;
+&ensp;[<kbd> <br> Multiple <br> </kbd>](#Multiple)&ensp;
+&ensp;[<kbd> <br> DashBoard <br> </kbd>](#Dashboard)&ensp;
 
 ### Installation
 
