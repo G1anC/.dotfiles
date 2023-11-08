@@ -6,8 +6,8 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 
 <div align = center><br>
 
-&ensp;[<kbd> <br> Install <br> </kbd>](#Installation)&ensp;
-&ensp;[<kbd> <br> Themes <br> </kbd>](#Theming)&ensp;
+&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 &ensp;[<kbd> <br> Styles <br> </kbd>](#Styles)&ensp;
 &ensp;[<kbd> <br> Packages <br> </kbd>](#Packages)&ensp;
 &ensp;[<kbd> <br> Keybindings <br> </kbd>](#Keybindings)&ensp;
