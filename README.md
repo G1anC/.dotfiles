@@ -11,7 +11,13 @@ The Hyprland (ArchLinux) configuration i'm currently using.
 &ensp;[<kbd> <br> Configuration <br> </kbd>](#Configurations)&ensp;
 &ensp;[<kbd> <br> Theme <br> </kbd>](#Theme)&ensp;
 <br><br></div>
-  
+
+### Dependencies
+
+```bash
+wayland hyprland hyprpaper thunar vscode swaylock wofi waybar
+```
+
 ### Installation
 
 ```bash
