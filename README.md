@@ -3,15 +3,15 @@
 The Hyprland (ArchLinux) configuration i'm currently using.
 <br>
 <br>
-
-&ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
-&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
-&ensp;[<kbd> <br> Configurations <br> </kbd>](#Configurations)&ensp;
-&ensp;[<kbd> <br> Home <br> </kbd>](#Home)&ensp;
-&ensp;[<kbd> <br> VSCode <br> </kbd>](#VSCode)&ensp;
-&ensp;[<kbd> <br> Multiple <br> </kbd>](#Multiple)&ensp;
-&ensp;[<kbd> <br> DashBoard <br> </kbd>](#Dashboard)&ensp;
-
+<div style="text-align: center;">
+  &ensp;[<kbd> <br> Dependencies <br> </kbd>](#Dependencies)&ensp;
+  &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+  &ensp;[<kbd> <br> Configurations <br> </kbd>](#Configurations)&ensp;
+  &ensp;[<kbd> <br> Home <br> </kbd>](#Home)&ensp;
+  &ensp;[<kbd> <br> VSCode <br> </kbd>](#VSCode)&ensp;
+  &ensp;[<kbd> <br> Multiple <br> </kbd>](#Multiple)&ensp;
+  &ensp;[<kbd> <br> DashBoard <br> </kbd>](#Dashboard)&ensp;
+</div>
 ### Installation
 
 ```bash
