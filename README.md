@@ -23,7 +23,7 @@ wayland hyprland hyprpaper thunar vscode swaylock wofi waybar
 ```bash
 sudo pacman -S hyprland 
 cd ~/.config/
-sudo 
+sudo git clone 
 ```
 <br>
 
