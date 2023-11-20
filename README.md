@@ -1,6 +1,7 @@
 # My Hyprland .dotfiles
 
-The Hyprland (ArchLinux) configuration i'm currently using.
+The Hyprland (ArchLinux) configuration i created based on the basic config installed.
+Currently using **https://github.com/prasanthrangan/hyprdots** config as it is a properly beautiful setup to install. 
 <br>
 <br>
 
