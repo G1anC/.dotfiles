@@ -22,9 +22,10 @@ wayland hyprland hyprpaper thunar vscode swaylock wofi waybar
 ### Installation
 
 ```bash
-sudo pacman -S hyprland 
-cd ~/.config/
-sudo git clone 
+  sudo pacman -S hyprland 
+  cd ~/.config/
+  git clone https://github.com/G1anC/HyprDotFiles.git
+  reboot
 ```
 <br>
 
